@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Master in AI <br>👯 I’m looking to collaborate on some LangGraph ReAct Agents Projects<br>🌱 I’m currently learning LangChain,LangGraph,RAG and GenAI LLM<br>💬 Ask me about AI And Future<br>⚡ Fun fact I have a cute hamster🐹 .
+🔭 I’m currently studying Master in AI <br>👯 I’m looking to collaborate on some LangGraph ReAct Agents Projects<br>🌱 I’m currently learning LangChain,LangGraph,RAG and GenAI LLM<br>💬 Ask me about AI And Future<br>⚡
 
 
 ## 🌐 Socials:
