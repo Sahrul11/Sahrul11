@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying Master in AI <br>👯 I’m looking to collaborate on some LangGraph LangChain ReAct Agents Projects<br>🌱 I’m currently learning LangChain,LangGraph,RAG and GenAI LLM<br>💬 Ask me about AI And Future<br>⚡
+🔭 I’m an AI enthusiast currently pursuing a Master’s in Artificial Intelligence, blending technical precision with creative exploration. With expertise in generative AI, retrieval-augmented generation, and autonomous agent frameworks.
+ <br>👯 I’m looking to collaborate on some LangGraph LangChain ReAct Agents Projects<br>🌱 I’m currently learning LangChain,LangGraph,RAG and GenAI LLM<br>💬 Ask me about AI And its future <br>
 
 
 ## 🌐 Socials:
